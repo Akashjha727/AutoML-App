@@ -5,6 +5,7 @@ import streamlit_pandas_profiling
 import os
 import matplotlib.pyplot as plt
 import seaborn as sns
+import streamlit_pandas_profiling
 
 from pydantic_settings import BaseSettings
 
